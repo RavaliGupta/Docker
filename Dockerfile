@@ -1,4 +1,3 @@
-docker pull blitznote/debootstrap-amd64:16.10
 From blitznote/debootstrap-amd64:16.10
 MAINTAINER ravali ravali@domain.tld
 RUN apt-get install apache2
